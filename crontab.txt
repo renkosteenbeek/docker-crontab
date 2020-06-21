@@ -1,2 +1,2 @@
 ; This is an example crontab config file
-*/30 * * * * /script.sh >> /var/log/script.log
+* * * * * /script.sh
